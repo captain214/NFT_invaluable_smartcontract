@@ -1,0 +1,35 @@
+{
+  "description": "Top Shot is playing the long game in the NFT craze",
+  "external_url": "https://www.theverge.com/22348858/nba-nft-top-shot-dapper-labs",
+  "image": "ipfs://QmXSjDyi7UH5LhJYj4YSWQgsfFmqniDYT4cgas1MaoHRGN",
+  "name": "NBA Incredible GIF #1",
+  "attributes": [
+    {
+      "trait_type": "Player",
+      "value": "NONAME"
+    },
+    {
+      "trait_type": "Real name",
+      "value": "James"
+    },
+    {
+      "trait_type": "Awesomeness",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Awesomeness",
+      "value": 100
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Awesomeness",
+      "value": 100
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}
